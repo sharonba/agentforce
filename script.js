@@ -3,11 +3,11 @@ function initEmbeddedMessaging() {
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00DHp00000G1Y0d',
-				'SDO_Messaging_for_Web',
-				'https://storm-4e92a595745941.my.site.com/ESWSDOMessagingforWeb1732454419616',
+				'00DHu00000GNFPi',
+				'MIAW_for_agentforce',
+				'https://storm-8c45ec62b4b61d.my.site.com/ESWMIAWforagentforce1737902890218',
 				{
-					scrt2URL: 'https://storm-4e92a595745941.my.salesforce-scrt.com'
+					scrt2URL: 'https://storm-8c45ec62b4b61d.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
