@@ -40,7 +40,7 @@ function handleSearch() {
                 "isEditableByEndUser": false
             },
             "_email": {
-                "value": "rshekhar@salesforce.com",
+                "value": "lbailey@example.com",
                 "isEditableByEndUser": false
             },
             "_subject": {
